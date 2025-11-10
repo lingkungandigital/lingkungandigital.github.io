@@ -145,11 +145,24 @@ header .container {
     margin-top: 10px;
 }
 
-/* Kontak Section */
+/* Kontak Section (Digunakan juga untuk Proses Desain) */
 .kontak {
     background: #e9ecef;
     padding: 3rem 0;
     text-align: center;
+}
+
+.process-steps {
+    max-width: 600px;
+    margin: 20px auto 0 auto;
+    text-align: left;
+}
+.process-steps p {
+    background: #ffffff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 
 .whatsapp-button {
